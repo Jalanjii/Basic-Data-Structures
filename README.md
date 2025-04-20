@@ -1,6 +1,6 @@
 # Data Structures in C
 
-This is a side project I did when taking data structures algorithms course. Many students complained about data structures being poorly taught, I tried to implement these basic structures using both arrays & linked lists in a way that is intuitive and easy to understand to fill the gap for some classmates.
+This is a project I did when taking the data structures course. Many students complained about data structures being poorly taught, I tried to implement these basic structures using both arrays & linked lists in a way that is intuitive and easy to understand to fill the gap for some classmates.
 
 Included structures: Stack, Queue, Singly/Doubly Linked List, Binary Search Tree, Heap
 
